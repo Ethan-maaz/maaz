@@ -1,0 +1,119 @@
+body {
+  background-color: white !important;
+
+}
+button {
+  background: rgba(0, 0, 0, 0.2);
+  border: 0px;
+  font-size: 16px;
+  padding: 12px 30px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: white;
+  max-width: 280px;
+  backdrop-filter: blur(280px);
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+  transition: 1s;
+}
+
+button:hover {
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  transform: translateY(-3px);
+}
+
+.App-2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.spline-2 {
+  background-color: white;
+  height: 100vh;
+  width: 100% !important;
+}
+
+.content-2 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin: 250px 30px 0 1150px;
+  align-items: center;
+
+}
+.about-text {
+  font-family: "Spline Sans Mono", monospace;
+  font-weight: bold;
+  font-size: 70px;
+  margin: 0;
+}
+.about-para {
+  font-weight: normal;
+  line-height: 150%;
+  max-width: 380px;
+}
+.navigation-buttons {
+  padding: 10px 15px;
+  font-size: 20px;
+  cursor: pointer;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  position: absolute;
+  display: flex;
+
+}
+.navigation-buttons button:hover {
+  background-color: #45a049;
+}
+.nextbutton {
+  margin-right: 0px;
+  right: 0px;
+
+}
+.prevbutton {
+  left: 0px;
+}
+.navbar{
+    position: absolute !important;
+    width: 100% !important;
+    z-index: 999;
+}
+
+@media (max-width: 1024px) {
+.content-2{
+  top: 200px;
+  margin-left: 10%;
+  margin-right: 10%;
+  gap: 30px;
+  }
+
+.Social{
+display: none;
+}
+
+.about-text {
+  font-size: 30px;
+
+}
+.about-para {
+  max-width: 380px;
+  font-size: 13px;
+}
+
+.navigation-buttons {
+
+  position: absolute;
+  top: 700px;
+  right: 22%;
+
+
+}
+.prevbutton {
+  left: 60px;
+}
+
+}
