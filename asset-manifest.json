@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/maaz/static/css/main.f85e0702.css",
+    "main.js": "/maaz/static/js/main.fc55c8a2.js",
+    "static/js/208.0c23e4c1.chunk.js": "/maaz/static/js/208.0c23e4c1.chunk.js",
+    "static/js/293.6635f1ea.chunk.js": "/maaz/static/js/293.6635f1ea.chunk.js",
+    "static/js/917.d4aa636e.chunk.js": "/maaz/static/js/917.d4aa636e.chunk.js",
+    "static/js/516.70c0e2b5.chunk.js": "/maaz/static/js/516.70c0e2b5.chunk.js",
+    "static/js/519.aa0257c3.chunk.js": "/maaz/static/js/519.aa0257c3.chunk.js",
+    "static/js/946.62d28e55.chunk.js": "/maaz/static/js/946.62d28e55.chunk.js",
+    "static/js/160.36832970.chunk.js": "/maaz/static/js/160.36832970.chunk.js",
+    "static/js/23.d2dcae1a.chunk.js": "/maaz/static/js/23.d2dcae1a.chunk.js",
+    "static/media/me.png": "/maaz/static/media/me.84df7151a8a7a3d4fef0.png",
+    "static/media/my-logo.png": "/maaz/static/media/my-logo.99b438cd64386013b227.png",
+    "static/media/instagram.svg": "/maaz/static/media/instagram.0dd482fa842bd7851f54ff91a01be94a.svg",
+    "static/media/github.svg": "/maaz/static/media/github.7b523d0a71c2c7e4e48495eda8f02ed4.svg",
+    "static/media/youtube.svg": "/maaz/static/media/youtube.93be20e9956a840941cf6ca7b5db0d5b.svg",
+    "static/media/linkedin.svg": "/maaz/static/media/linkedin.fad6cb3b7ce0a6b6474fa2bc8ce52bc7.svg",
+    "index.html": "/maaz/index.html",
+    "static/media/icon-laptop.svg": "/maaz/static/media/icon-laptop.280f18924ab59a11e682d6c007230866.svg",
+    "main.f85e0702.css.map": "/maaz/static/css/main.f85e0702.css.map",
+    "main.fc55c8a2.js.map": "/maaz/static/js/main.fc55c8a2.js.map",
+    "208.0c23e4c1.chunk.js.map": "/maaz/static/js/208.0c23e4c1.chunk.js.map",
+    "293.6635f1ea.chunk.js.map": "/maaz/static/js/293.6635f1ea.chunk.js.map",
+    "917.d4aa636e.chunk.js.map": "/maaz/static/js/917.d4aa636e.chunk.js.map",
+    "516.70c0e2b5.chunk.js.map": "/maaz/static/js/516.70c0e2b5.chunk.js.map",
+    "519.aa0257c3.chunk.js.map": "/maaz/static/js/519.aa0257c3.chunk.js.map",
+    "946.62d28e55.chunk.js.map": "/maaz/static/js/946.62d28e55.chunk.js.map",
+    "160.36832970.chunk.js.map": "/maaz/static/js/160.36832970.chunk.js.map",
+    "23.d2dcae1a.chunk.js.map": "/maaz/static/js/23.d2dcae1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f85e0702.css",
+    "static/js/main.fc55c8a2.js"
+  ]
+}
